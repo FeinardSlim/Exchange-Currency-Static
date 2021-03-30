@@ -145,7 +145,7 @@ namespace Exchange_Currency_Static
             this.Controls.Add(this.outCurrency);
             this.Controls.Add(this.inCurrency);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Static Currency Converter";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
